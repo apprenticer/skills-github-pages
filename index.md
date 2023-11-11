@@ -1,11 +1,8 @@
 ---
 title: Welcome to my blog
-date:2023-11-11
 ---
-
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-
 # 这是`<h1>` header，一级标题,
 
 ## 这是 `<h2>` header, 二级标题
